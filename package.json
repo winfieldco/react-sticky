@@ -1,6 +1,6 @@
 {
   "name": "react-sticky",
-  "version": "6.0.3-post3",
+  "version": "6.0.3-post4",
   "description": "Sticky component for React",
   "main": "lib/index.js",
   "scripts": {
@@ -28,10 +28,6 @@
     "@babel/runtime": "^7.3.1",
     "prop-types": "^15.5.8",
     "raf": "^3.3.0"
-  },
-  "peerDependencies": {
-    "react": ">=15",
-    "react-dom": ">=15"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
